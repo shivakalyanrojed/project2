@@ -1,0 +1,37 @@
+.background{
+    background-image:url('https://wallpaperaccess.com/full/2522549.jpg');
+    background-size:cover;
+    height:100vh;
+    display:flex;
+    justify-content:start;
+    flex-direction:column;
+
+}
+.card-background{
+    background-color: antiquewhite;
+    height:150px;
+    width:350px;
+    display:flex;
+    justify-content:start;
+    flex-direction:row;
+    border-radius:20px;
+    margin:20px;
+    padding: 15px;
+    margin-left:40px;
+
+}
+.column{
+    display:flex;
+    justify-content:start;
+    flex-direction:row;
+
+}
+.image{
+    height:75px;
+    width:85px;
+}
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 30px;
+}

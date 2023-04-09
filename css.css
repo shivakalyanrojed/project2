@@ -1,0 +1,45 @@
+.background{
+    background-image:url('https://wallpapercave.com/wp/wp10935266.jpg');
+    background-size:cover;
+    height:100vh;
+    display:flex;
+    justify-content:end;
+    flex-direction:column;
+    
+    
+    
+}
+.card-background{
+    
+    background-color:rgb(251, 246, 250);
+    display:flex;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    justify-content:center;
+    flex-direction:column;
+    border-radius:25px;
+    height:120px;
+    width:300px;
+    margin: 20px;
+    
+    
+}
+
+.description{
+    font-family:"Verdana, Geneva, Tahoma, sans-serif";
+    font: size 30px;
+    font-weight:bold;
+    
+
+
+}
+.button{
+    font-size:20px;
+    height:50px;
+    width:136px;
+    border-radius:10px;
+    border-width:0px;
+    background-color:rgb(10, 244, 56);
+    color:white;
+    font-weight:bold;
+}
