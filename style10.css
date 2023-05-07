@@ -1,0 +1,27 @@
+.background{
+    background-image:url('https://i.pinimg.com/564x/38/50/7f/38507f1c44d4f0e75e2e9a203f8f9740.jpg');
+    background-size:cover;
+    
+    padding:25px;
+
+}
+.card1{
+    background-color: aliceblue;
+    width:380px;
+    border-radius:15px;
+    padding:9px;
+    height:180px;
+    margin:34px;
+}
+.playername{
+    font-size: 15px;
+    font-family: Comic Sans MS;
+}
+.image{
+    height:150px;
+    width:150px;
+}
+.description{
+    font-size:30px;
+    font-family: italic;
+}

@@ -1,0 +1,27 @@
+.background{
+    background-image:url('https://wallpapercave.com/wp/wp2682669.jpg');
+    background-size:cover;
+    
+    padding:25px;
+
+}
+.card1{
+    background-color: aliceblue;
+    width:380px;
+    border-radius:15px;
+    padding:9px;
+    height:180px;
+    margin:34px;
+}
+.playername{
+    font-size: 15px;
+    font-family: Comic Sans MS;
+}
+.image{
+    height:150px;
+    width:150px;
+}
+.description{
+    font-size:30px;
+    font-family: italic;
+}
